@@ -1,0 +1,285 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Proyectos\\CarroCompras\\WebApi\\WebApi.csproj": {}
+  },
+  "projects": {
+    "C:\\Proyectos\\CarroCompras\\CarroCompras\\CarroCompras.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Proyectos\\CarroCompras\\CarroCompras\\CarroCompras.csproj",
+        "projectName": "CarroCompras",
+        "projectPath": "C:\\Proyectos\\CarroCompras\\CarroCompras\\CarroCompras.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {
+              "C:\\Proyectos\\CarroCompras\\Entidades Negocio\\EntidadesNegocio.csproj": {
+                "projectPath": "C:\\Proyectos\\CarroCompras\\Entidades Negocio\\EntidadesNegocio.csproj"
+              },
+              "C:\\Proyectos\\CarroCompras\\Reglas Negocio\\ReglasNegocio.csproj": {
+                "projectPath": "C:\\Proyectos\\CarroCompras\\Reglas Negocio\\ReglasNegocio.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    },
+    "C:\\Proyectos\\CarroCompras\\Datos Negocio\\DatosNegocio.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Proyectos\\CarroCompras\\Datos Negocio\\DatosNegocio.csproj",
+        "projectName": "DatosNegocio",
+        "projectPath": "C:\\Proyectos\\CarroCompras\\Datos Negocio\\DatosNegocio.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Proyectos\\CarroCompras\\Entidades Negocio\\EntidadesNegocio.csproj": {
+                "projectPath": "C:\\Proyectos\\CarroCompras\\Entidades Negocio\\EntidadesNegocio.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Proyectos\\CarroCompras\\DatosNegocioAPI\\DatosNegocioAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Proyectos\\CarroCompras\\DatosNegocioAPI\\DatosNegocioAPI.csproj",
+        "projectName": "DatosNegocioAPI",
+        "projectPath": "C:\\Proyectos\\CarroCompras\\DatosNegocioAPI\\DatosNegocioAPI.csproj",
+        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+        "outputPath": "C:\\Proyectos\\CarroCompras\\DatosNegocioAPI\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Proyectos\\CarroCompras\\EntidadesNegocioAPI\\EntidadesNegocioAPI.csproj": {
+                "projectPath": "C:\\Proyectos\\CarroCompras\\EntidadesNegocioAPI\\EntidadesNegocioAPI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Proyectos\\CarroCompras\\Entidades Negocio\\EntidadesNegocio.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Proyectos\\CarroCompras\\Entidades Negocio\\EntidadesNegocio.csproj",
+        "projectName": "EntidadesNegocio",
+        "projectPath": "C:\\Proyectos\\CarroCompras\\Entidades Negocio\\EntidadesNegocio.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Proyectos\\CarroCompras\\EntidadesNegocioAPI\\EntidadesNegocioAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Proyectos\\CarroCompras\\EntidadesNegocioAPI\\EntidadesNegocioAPI.csproj",
+        "projectName": "EntidadesNegocioAPI",
+        "projectPath": "C:\\Proyectos\\CarroCompras\\EntidadesNegocioAPI\\EntidadesNegocioAPI.csproj",
+        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+        "outputPath": "C:\\Proyectos\\CarroCompras\\EntidadesNegocioAPI\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Proyectos\\CarroCompras\\Reglas Negocio\\ReglasNegocio.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Proyectos\\CarroCompras\\Reglas Negocio\\ReglasNegocio.csproj",
+        "projectName": "ReglasNegocio",
+        "projectPath": "C:\\Proyectos\\CarroCompras\\Reglas Negocio\\ReglasNegocio.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Proyectos\\CarroCompras\\Datos Negocio\\DatosNegocio.csproj": {
+                "projectPath": "C:\\Proyectos\\CarroCompras\\Datos Negocio\\DatosNegocio.csproj"
+              },
+              "C:\\Proyectos\\CarroCompras\\Entidades Negocio\\EntidadesNegocio.csproj": {
+                "projectPath": "C:\\Proyectos\\CarroCompras\\Entidades Negocio\\EntidadesNegocio.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Proyectos\\CarroCompras\\WebApi\\WebApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Proyectos\\CarroCompras\\WebApi\\WebApi.csproj",
+        "projectName": "WebApi",
+        "projectPath": "C:\\Proyectos\\CarroCompras\\WebApi\\WebApi.csproj",
+        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+        "outputPath": "C:\\Proyectos\\CarroCompras\\WebApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Proyectos\\CarroCompras\\CarroCompras\\CarroCompras.csproj": {
+                "projectPath": "C:\\Proyectos\\CarroCompras\\CarroCompras\\CarroCompras.csproj"
+              },
+              "C:\\Proyectos\\CarroCompras\\DatosNegocioAPI\\DatosNegocioAPI.csproj": {
+                "projectPath": "C:\\Proyectos\\CarroCompras\\DatosNegocioAPI\\DatosNegocioAPI.csproj"
+              },
+              "C:\\Proyectos\\CarroCompras\\EntidadesNegocioAPI\\EntidadesNegocioAPI.csproj": {
+                "projectPath": "C:\\Proyectos\\CarroCompras\\EntidadesNegocioAPI\\EntidadesNegocioAPI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.1.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

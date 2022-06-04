@@ -1,0 +1,13 @@
+C:\Proyectos\CarroCompras\Reglas Negocio\obj\Debug\ReglasNegocio.csproj.AssemblyReference.cache
+C:\Proyectos\CarroCompras\Reglas Negocio\obj\Debug\ReglasNegocio.csproj.CoreCompileInputs.cache
+C:\Proyectos\CarroCompras\Reglas Negocio\bin\Debug\ReglasNegocio.dll
+C:\Proyectos\CarroCompras\Reglas Negocio\bin\Debug\ReglasNegocio.pdb
+C:\Proyectos\CarroCompras\Reglas Negocio\obj\Debug\ReglasNegocio.dll
+C:\Proyectos\CarroCompras\Reglas Negocio\obj\Debug\ReglasNegocio.pdb
+C:\Proyectos\CarroCompras\Reglas Negocio\bin\Debug\DatosNegocio.dll
+C:\Proyectos\CarroCompras\Reglas Negocio\bin\Debug\DatosNegocio.pdb
+C:\Proyectos\CarroCompras\Reglas Negocio\obj\Debug\ReglasNegocio.csproj.CopyComplete
+C:\Proyectos\CarroCompras\Reglas Negocio\bin\Debug\EntidadesNegocio.dll
+C:\Proyectos\CarroCompras\Reglas Negocio\bin\Debug\EntidadesNegocio.pdb
+C:\Proyectos\CarroCompras\Reglas Negocio\bin\Debug\ReglasNegocio.dll.config
+C:\Proyectos\CarroCompras\Reglas Negocio\bin\Debug\DatosNegocio.dll.config

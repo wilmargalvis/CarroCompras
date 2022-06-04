@@ -1,0 +1,58 @@
+﻿*, ::after, *::before {
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-family: 'poppins','sans-serif';
+}
+
+body {
+    background-color: rgba(0,0,0,.8);
+    color: rgb(255, 255, 255);
+}
+
+.container {
+    height: 50vh;
+    width: 100vh;
+    margin-top:70px;
+}
+
+container h3 {
+    text-transform: uppercase;
+    font-size: 1.5em;
+}
+
+h3 {
+text-align:center;
+}
+
+.form-acceso {
+    display: block; /*para que ocupe todo el ancho*/
+    width: 50%;
+    margin: 2rem auto;
+    display: flex;
+    flex-direction: column;
+}
+
+.texto {
+    margin: 0.5rem 0rem;
+    line-height: 2rem;
+    background: none;
+    outline: 0rem;
+    border: 0rem;
+    color: white;
+}
+
+.form-acceso input:active {
+    border-bottom: 1px solid dodgerblue;
+}
+
+.form-acceso input:focus {
+    border-bottom: 1px solid dodgerblue;
+}
+
+.label:hover {
+    color: #FF00FF;
+    font-weight: bold;
+}

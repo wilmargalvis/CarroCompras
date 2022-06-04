@@ -1,0 +1,18 @@
+usuario admin: julietag
+contraseña admin: julieta2022*
+
+usuario compras: mariaj
+contraseña admin: maria2022*
+
+CREACIÓN API REST
+
+Consulta servicio compras de usuarios
+https://localhost:puerto/api/Compras/usuariosCompras
+
+Consulta servicio Productos Disponibles
+https://localhost:puerto/api/Compras/productosdisponibles
+
+Consulta servicio Productos Disponibles
+https://localhost:puerto/api/Compras/productosdisponibles
+
+PROBADOR DE API: Postman

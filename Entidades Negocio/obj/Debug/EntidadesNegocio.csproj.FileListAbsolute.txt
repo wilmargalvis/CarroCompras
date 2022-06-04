@@ -1,0 +1,5 @@
+C:\Proyectos\CarroCompras\Entidades Negocio\obj\Debug\EntidadesNegocio.csproj.CoreCompileInputs.cache
+C:\Proyectos\CarroCompras\Entidades Negocio\bin\Debug\EntidadesNegocio.dll
+C:\Proyectos\CarroCompras\Entidades Negocio\bin\Debug\EntidadesNegocio.pdb
+C:\Proyectos\CarroCompras\Entidades Negocio\obj\Debug\EntidadesNegocio.dll
+C:\Proyectos\CarroCompras\Entidades Negocio\obj\Debug\EntidadesNegocio.pdb

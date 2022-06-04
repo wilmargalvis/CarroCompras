@@ -1,0 +1,12 @@
+C:\Proyectos\CarroCompras\EntidadesNegocioAPI\bin\Debug\net5.0\EntidadesNegocioAPI.deps.json
+C:\Proyectos\CarroCompras\EntidadesNegocioAPI\bin\Debug\net5.0\EntidadesNegocioAPI.dll
+C:\Proyectos\CarroCompras\EntidadesNegocioAPI\bin\Debug\net5.0\ref\EntidadesNegocioAPI.dll
+C:\Proyectos\CarroCompras\EntidadesNegocioAPI\bin\Debug\net5.0\EntidadesNegocioAPI.pdb
+C:\Proyectos\CarroCompras\EntidadesNegocioAPI\obj\Debug\net5.0\EntidadesNegocioAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\CarroCompras\EntidadesNegocioAPI\obj\Debug\net5.0\EntidadesNegocioAPI.AssemblyInfoInputs.cache
+C:\Proyectos\CarroCompras\EntidadesNegocioAPI\obj\Debug\net5.0\EntidadesNegocioAPI.AssemblyInfo.cs
+C:\Proyectos\CarroCompras\EntidadesNegocioAPI\obj\Debug\net5.0\EntidadesNegocioAPI.csproj.CoreCompileInputs.cache
+C:\Proyectos\CarroCompras\EntidadesNegocioAPI\obj\Debug\net5.0\EntidadesNegocioAPI.dll
+C:\Proyectos\CarroCompras\EntidadesNegocioAPI\obj\Debug\net5.0\ref\EntidadesNegocioAPI.dll
+C:\Proyectos\CarroCompras\EntidadesNegocioAPI\obj\Debug\net5.0\EntidadesNegocioAPI.pdb
+C:\Proyectos\CarroCompras\EntidadesNegocioAPI\obj\Debug\net5.0\EntidadesNegocioAPI.csproj.AssemblyReference.cache
